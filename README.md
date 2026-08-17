@@ -4,7 +4,7 @@ This project is a machine learning based heart disease prediction system. I work
 
 The final model can be used through a simple Streamlit web interface, where users can enter patient information and get a prediction.
 
-What I Did
+
 Loaded and explored the dataset
 Performed Exploratory Data Analysis (EDA)
 Checked missing values and data types
